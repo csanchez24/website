@@ -1,4 +1,4 @@
-import { GithubIcon, LinkedinIcon, MailIcon } from "lucide-react";
+import { GithubIcon, LinkedinIcon } from "lucide-react";
 import { ModeToggle } from "./components/mode-toggle";
 
 function App() {
