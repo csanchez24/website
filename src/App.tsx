@@ -56,28 +56,37 @@ function App() {
             <h2 className="text-2xl lg:text-3xl mb-4">Skills</h2>
             <ul className="list-disc list-outside ml-4 space-y-1 text-pretty">
               <li>
-                Programming Languages: JavaScript (TypeScript, Node.js), PHP,
-                SQL
+                <b>Programming Languages:</b> JavaScript (TypeScript, Node.js),
+                PHP, SQL
               </li>
               <li>
-                Frontend Development: HTML, CSS, JavaScript (Vanilla,
+                <b>Frontend Development:</b> HTML, CSS, JavaScript (Vanilla,
                 TypeScript), React, Next.js, Vue, Angular, Astro, Zustand,
                 Redux, jQuery, WordPress
               </li>
               <li>
-                Backend Development: Node.js (Express, Nest.js), PHP (Laravel,
-                WordPress)
+                <b>Backend Development:</b> Node.js (Express, Nest.js), PHP
+                (Laravel, WordPress)
               </li>
-              <li>Databases: MySQL, PostgreSQL, SQLite, Redis, MongoDB</li>
-              <li>Web APIs & Communication: REST, GraphQL, RPC</li>
               <li>
-                Version Control & Deployment: Git, GitHub, Laravel Forge,
+                <b>Databases:</b> MySQL, PostgreSQL, SQLite, Redis, MongoDB
+              </li>
+              <li>
+                <b>Web APIs & Communication:</b> REST, GraphQL, RPC
+              </li>
+              <li>
+                <b>Version Control & Deployment:</b> Git, GitHub, Laravel Forge,
                 Vercel, Dokku
               </li>
-              <li>CI/CD: GitHub Actions</li>
               <li>
-                Cloud & DevOps: Docker, Dokku, Dokploy, DigitalOcean, Vercel,
-                Laravel Forge, GitHub Actions, Git, BullMQ
+                <b>CI/CD:</b> GitHub Actions
+              </li>
+              <li>
+                <b>Cloud & DevOps:</b> Docker, Dokku, Dokploy, DigitalOcean,
+                Vercel, Laravel Forge, GitHub Actions, Git, BullMQ
+              </li>
+              <li>
+                <b>Spoken Languages:</b> English, Spanish
               </li>
             </ul>
           </div>
