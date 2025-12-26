@@ -57,7 +57,7 @@ function App() {
             <ul className="list-disc list-outside ml-4 space-y-1 text-pretty">
               <li>
                 Programming Languages: JavaScript (TypeScript, Node.js), PHP,
-                Golang, SQL
+                SQL
               </li>
               <li>
                 Frontend Development: HTML, CSS, JavaScript (Vanilla,
@@ -66,7 +66,7 @@ function App() {
               </li>
               <li>
                 Backend Development: Node.js (Express, Nest.js), PHP (Laravel,
-                WordPress), Golang
+                WordPress)
               </li>
               <li>Databases: MySQL, PostgreSQL, SQLite, Redis, MongoDB</li>
               <li>Web APIs & Communication: REST, GraphQL, RPC</li>
