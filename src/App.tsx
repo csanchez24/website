@@ -60,9 +60,8 @@ function App() {
                 PHP, SQL
               </li>
               <li>
-                <b>Frontend Development:</b> HTML, CSS, JavaScript (Vanilla,
-                TypeScript), React, Next.js, Vue, Angular, Astro, Zustand,
-                Redux, jQuery, WordPress
+                <b>Frontend Development:</b> React, Next.js, Vue, Angular,
+                Astro, HTML, JavaScript, CSS, jQuery, WordPress
               </li>
               <li>
                 <b>Backend Development:</b> Node.js (Express, Nest.js), PHP
@@ -72,18 +71,8 @@ function App() {
                 <b>Databases:</b> MySQL, PostgreSQL, SQLite, Redis, MongoDB
               </li>
               <li>
-                <b>Web APIs & Communication:</b> REST, GraphQL, RPC
-              </li>
-              <li>
-                <b>Version Control & Deployment:</b> Git, GitHub, Laravel Forge,
-                Vercel, Dokku
-              </li>
-              <li>
-                <b>CI/CD:</b> GitHub Actions
-              </li>
-              <li>
-                <b>Cloud & DevOps:</b> Docker, Dokku, Dokploy, DigitalOcean,
-                Vercel, Laravel Forge, GitHub Actions, Git, BullMQ
+                <b>DevOps & Deployment:</b> Docker, Dokku, DigitalOcean, Vercel,
+                Laravel Forge, GitHub Actions, Git
               </li>
               <li>
                 <b>Spoken Languages:</b> English, Spanish
