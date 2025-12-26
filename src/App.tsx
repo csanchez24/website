@@ -76,8 +76,8 @@ function App() {
               </li>
               <li>CI/CD: GitHub Actions</li>
               <li>
-                Cloud & DevOps: AWS, DigitalOcean, Docker & Docker Compose,
-                Kubernetes, Monorepos
+                Cloud & DevOps: Docker, DigitalOcean, Vercel, Laravel Forge,
+                GitHub Actions, Git, BullMQ
               </li>
             </ul>
           </div>
