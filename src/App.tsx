@@ -1,4 +1,4 @@
-import { GithubIcon, LinkedinIcon } from "lucide-react";
+import { FileUserIcon, GithubIcon, LinkedinIcon, MailIcon } from "lucide-react";
 import { ModeToggle } from "./components/mode-toggle";
 
 function App() {
@@ -22,13 +22,12 @@ function App() {
             </a>
           </div>
           <p className="mb-6">
-            Full Stack Web Developer with 6+ years of experience designing and
-            building scalable web applications using modern technologies such as
-            PHP (Laravel), JavaScript/TypeScript (React.js, Next.js), and
-            Node.js. Proven expertise in optimizing performance, enhancing
-            workflows, and delivering seamless user experiences. Strong
-            problem-solving skills and a collaborative team player with a
-            passion for integrating cutting-edge technologies.
+            Full Stack Developer with 6+ years of experience in PHP (Laravel)
+            and JavaScript/TypeScript (React.js, Next.js, Node.js). Automated
+            integrations across NetSuite, Salesforce, HubSpot, Shopify, reducing
+            manual workload by 40%. Implemented CI/CD pipelines and delivered
+            internal tools and customer-facing platforms. Strong background in
+            API integrations, SQL, and performance optimization.
           </p>
           <div className="flex items-center justify-between">
             <div className="flex gap-3 mb-6">
@@ -45,6 +44,20 @@ function App() {
                 className="hover:opacity-80"
               >
                 <LinkedinIcon />
+              </a>
+              <a
+                href="mailto:carlosjosesancheze@gmail.com"
+                target="_blank"
+                className="hover:opacity-80"
+              >
+                <MailIcon />
+              </a>
+              <a
+                href="/carlos-sanchez-resume.pdf"
+                target="_blank"
+                className="hover:opacity-80"
+              >
+                <FileUserIcon />
               </a>
             </div>
             <div>
