@@ -66,7 +66,7 @@ export const navigationLinks: NavigationLink[] = [
 export const hero: HeroContent = {
   name: "Carlos J. Sanchez",
   headline:
-    "Full-Stack Software Engineer with 15+ years of experience building business software, integrations, and customer-facing products.",
+    "Full-Stack Software Engineer with 15+ years building business software, integrations, and customer-facing platforms.",
   supportingCopy:
     "Experienced across JavaScript, TypeScript, React, Next.js, Node.js, Laravel, SQL, CI/CD, and API integrations. I build internal platforms, customer portals, e-commerce flows, and operational systems that support real business workflows.",
   strengths: [
