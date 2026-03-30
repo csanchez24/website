@@ -182,6 +182,13 @@ export const detailedProjects: DetailedProject[] = [
       "Built the full product flow for uploads, positioning, resizing, and previewing designs directly in the web experience.",
     outcome:
       "Delivered a product flow that made customization interactive, immediate, and purchase-ready inside the storefront.",
+    links: [
+      {
+        label: "Visit website",
+        href: "https://www.garmeo.com/",
+        tone: "primary",
+      },
+    ],
   },
   {
     category: "Customer Portal",
@@ -215,7 +222,7 @@ export const detailedProjects: DetailedProject[] = [
       {
         label: "Visit website",
         href: "https://qodari.com/",
-        tone: "secondary",
+        tone: "primary",
       },
     ],
   },
