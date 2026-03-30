@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { navigationLinks } from "../lib/site-content";
+import { navigationLinks } from "@/lib/site-content";
 
 type SiteHeaderProps = {
   currentPath: string;

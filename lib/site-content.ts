@@ -139,7 +139,7 @@ export const detailedProjects: DetailedProject[] = [
       {
         label: "Live app",
         href: "https://iam.qodari.com/",
-        tone: "primary" as const,
+        tone: "primary",
       },
     ],
   },
@@ -215,7 +215,7 @@ export const detailedProjects: DetailedProject[] = [
       {
         label: "Visit website",
         href: "https://qodari.com/",
-        tone: "secondary" as const,
+        tone: "secondary",
       },
     ],
   },

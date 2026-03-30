@@ -2,7 +2,7 @@ import {
   createSocialImage,
   socialImageContentType,
   socialImageSize,
-} from "../lib/social-image";
+} from "@/lib/social-image";
 
 export const alt =
   "Carlos J. Sanchez, full-stack software engineer building business software, integrations, and customer-facing products.";

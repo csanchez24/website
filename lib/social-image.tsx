@@ -1,7 +1,7 @@
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { ImageResponse } from "next/og";
-import { siteConfig } from "./site-config";
+import { siteConfig } from "@/lib/site-config";
 
 /* eslint-disable @next/next/no-img-element */
 

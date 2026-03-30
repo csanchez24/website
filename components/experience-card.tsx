@@ -1,4 +1,4 @@
-import type { ExperienceHighlight } from "../lib/site-content";
+import type { ExperienceHighlight } from "@/lib/site-content";
 
 type ExperienceCardProps = {
   experience: ExperienceHighlight;
@@ -6,7 +6,7 @@ type ExperienceCardProps = {
 
 export function ExperienceCard({ experience }: ExperienceCardProps) {
   return (
-    <article className="rounded-[1.75rem] border border-line bg-card p-6 shadow-[0_20px_48px_rgba(0,0,0,0.16)] sm:p-7">
+    <article className="rounded-card border border-line bg-card p-6 shadow-card sm:p-7">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
         <div className="space-y-1">
           <h3 className="text-xl font-semibold text-foreground">

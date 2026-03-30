@@ -1,4 +1,4 @@
-import type { SelectedProject } from "../lib/site-content";
+import type { SelectedProject } from "@/lib/site-content";
 
 type SelectedProjectCardProps = {
   project: SelectedProject;
@@ -6,7 +6,7 @@ type SelectedProjectCardProps = {
 
 export function SelectedProjectCard({ project }: SelectedProjectCardProps) {
   return (
-    <article className="flex h-full flex-col rounded-[1.75rem] border border-line bg-card p-6 shadow-[0_20px_48px_rgba(0,0,0,0.16)] sm:p-7">
+    <article className="flex h-full flex-col rounded-card border border-line bg-card p-6 shadow-card sm:p-7">
       <p className="text-xs font-medium tracking-[0.06em] text-muted sm:text-sm">
         {project.eyebrow}
       </p>
