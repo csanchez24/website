@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Carlos J. Sanchez",
-  title: "Full-Stack Software Engineer",
+  title: "Carlos J. Sanchez | Full-Stack Software Engineer",
   url: "https://carlosjsancheze.com",
   description:
     "Senior full-stack software engineer building business software, integrations, internal platforms, and customer-facing products.",

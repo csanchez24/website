@@ -160,14 +160,10 @@ export default function Home() {
 
         <div className="space-y-4">
           {experienceHighlights.map((experience) => (
-            <ExperienceCard
-              key={experience.company}
-              experience={experience}
-            />
+            <ExperienceCard key={experience.company} experience={experience} />
           ))}
         </div>
       </section>
-
     </PageShell>
   );
 }
